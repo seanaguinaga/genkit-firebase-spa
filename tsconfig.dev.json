@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    // ... your existing compiler options
+  },
+  "include": [
+    "functions/src/**/*.ts"
+    // ... other included paths
+  ]
+  // ... other configurations
+}
